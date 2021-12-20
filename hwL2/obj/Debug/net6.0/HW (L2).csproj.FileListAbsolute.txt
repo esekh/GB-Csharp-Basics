@@ -1,0 +1,30 @@
+C:\Users\SHOK\Downloads\HW (L2)\bin\Debug\net6.0\HW (L2).exe
+C:\Users\SHOK\Downloads\HW (L2)\bin\Debug\net6.0\HW (L2).deps.json
+C:\Users\SHOK\Downloads\HW (L2)\bin\Debug\net6.0\HW (L2).runtimeconfig.json
+C:\Users\SHOK\Downloads\HW (L2)\bin\Debug\net6.0\HW (L2).dll
+C:\Users\SHOK\Downloads\HW (L2)\bin\Debug\net6.0\ref\HW (L2).dll
+C:\Users\SHOK\Downloads\HW (L2)\bin\Debug\net6.0\HW (L2).pdb
+C:\Users\SHOK\Downloads\HW (L2)\obj\Debug\net6.0\HW (L2).csproj.AssemblyReference.cache
+C:\Users\SHOK\Downloads\HW (L2)\obj\Debug\net6.0\HW (L2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHOK\Downloads\HW (L2)\obj\Debug\net6.0\HW (L2).AssemblyInfoInputs.cache
+C:\Users\SHOK\Downloads\HW (L2)\obj\Debug\net6.0\HW (L2).AssemblyInfo.cs
+C:\Users\SHOK\Downloads\HW (L2)\obj\Debug\net6.0\HW (L2).csproj.CoreCompileInputs.cache
+C:\Users\SHOK\Downloads\HW (L2)\obj\Debug\net6.0\HW (L2).dll
+C:\Users\SHOK\Downloads\HW (L2)\obj\Debug\net6.0\ref\HW (L2).dll
+C:\Users\SHOK\Downloads\HW (L2)\obj\Debug\net6.0\HW (L2).pdb
+C:\Users\SHOK\Downloads\HW (L2)\obj\Debug\net6.0\HW (L2).genruntimeconfig.cache
+C:\Users\SHOK\Downloads\Домашние задания\HW (L2)\bin\Debug\net6.0\HW (L2).exe
+C:\Users\SHOK\Downloads\Домашние задания\HW (L2)\bin\Debug\net6.0\HW (L2).deps.json
+C:\Users\SHOK\Downloads\Домашние задания\HW (L2)\bin\Debug\net6.0\HW (L2).runtimeconfig.json
+C:\Users\SHOK\Downloads\Домашние задания\HW (L2)\bin\Debug\net6.0\HW (L2).dll
+C:\Users\SHOK\Downloads\Домашние задания\HW (L2)\bin\Debug\net6.0\ref\HW (L2).dll
+C:\Users\SHOK\Downloads\Домашние задания\HW (L2)\bin\Debug\net6.0\HW (L2).pdb
+C:\Users\SHOK\Downloads\Домашние задания\HW (L2)\obj\Debug\net6.0\HW (L2).csproj.AssemblyReference.cache
+C:\Users\SHOK\Downloads\Домашние задания\HW (L2)\obj\Debug\net6.0\HW (L2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHOK\Downloads\Домашние задания\HW (L2)\obj\Debug\net6.0\HW (L2).AssemblyInfoInputs.cache
+C:\Users\SHOK\Downloads\Домашние задания\HW (L2)\obj\Debug\net6.0\HW (L2).AssemblyInfo.cs
+C:\Users\SHOK\Downloads\Домашние задания\HW (L2)\obj\Debug\net6.0\HW (L2).csproj.CoreCompileInputs.cache
+C:\Users\SHOK\Downloads\Домашние задания\HW (L2)\obj\Debug\net6.0\HW (L2).dll
+C:\Users\SHOK\Downloads\Домашние задания\HW (L2)\obj\Debug\net6.0\ref\HW (L2).dll
+C:\Users\SHOK\Downloads\Домашние задания\HW (L2)\obj\Debug\net6.0\HW (L2).pdb
+C:\Users\SHOK\Downloads\Домашние задания\HW (L2)\obj\Debug\net6.0\HW (L2).genruntimeconfig.cache
