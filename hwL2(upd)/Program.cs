@@ -1,6 +1,5 @@
 ﻿// ВЫПОЛНИЛА: СЕХИНА ЕЛЕНА
 // Задание №1. Программа, возвращающая минимальное из трех чисел
-/*
 {
     Console.Write("Чтобы узнать минимальное из трех чисел, задайте первое число: ");
     double num1 = Convert.ToDouble(Console.ReadLine());
@@ -360,9 +359,9 @@
     Console.WriteLine($"В диапазоне от 1 до 1 000 000 000 найдено {goodNum} хороших чисел.");
     Console.WriteLine($"Время работы программы: {(DateTime.Now - start)}.");
 }
-*/
 
 // Задание №7.а) и б). Рекурсивный метод: выводит на экран числа от a до b (a < b) и считает их сумму
+/*class Task7
 {
     void RecursiveMethodA(int a, int b)
     {
@@ -375,18 +374,19 @@
         if (b == a)
             return a;
         return SumRecursiveMethodB(a, b - 1) + b;
+
+
+        Console.Write("Введите число a: ");
+        int a = int.Parse(Console.ReadLine());
+        Console.Write("Введите число b: ");
+        int b = int.Parse(Console.ReadLine());
+
+        Console.WriteLine();
+        Console.Write("Числа от a до b (при условии, что a < b): ");
+        RecursiveMethodA(a, b);
+
+        Console.WriteLine();
+        SumRecursiveMethodB(a, b);
+        Console.WriteLine($"Сумма двух чисел равна: {SumRecursiveMethodB(a, b)}");
     }
-
-    Console.Write("Введите число a: ");
-    int a = int.Parse(Console.ReadLine());
-    Console.Write("Введите число b: ");
-    int b = int.Parse(Console.ReadLine());
-    
-    Console.WriteLine();
-    Console.Write("Числа от a до b (при условии, что a < b): ");
-    RecursiveMethodA(a, b);
-
-    Console.WriteLine();
-    SumRecursiveMethodB(a, b);
-    Console.WriteLine($"Сумма двух чисел равна: {SumRecursiveMethodB(a, b)}");
-}
+}*/

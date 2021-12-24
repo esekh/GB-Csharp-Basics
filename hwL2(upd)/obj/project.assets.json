@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SHOK\\Downloads\\Домашние задания\\HW (L2)\\HW (L2).csproj",
-      "projectName": "HW (L2)",
-      "projectPath": "C:\\Users\\SHOK\\Downloads\\Домашние задания\\HW (L2)\\HW (L2).csproj",
+      "projectUniqueName": "C:\\Users\\SHOK\\Desktop\\Rarka\\GB\\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\\GBCsharpBasics\\hwL2(upd)\\hwL2(upd).csproj",
+      "projectName": "hwL2(upd)",
+      "projectPath": "C:\\Users\\SHOK\\Desktop\\Rarka\\GB\\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\\GBCsharpBasics\\hwL2(upd)\\hwL2(upd).csproj",
       "packagesPath": "C:\\Users\\SHOK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SHOK\\Downloads\\Домашние задания\\HW (L2)\\obj\\",
+      "outputPath": "C:\\Users\\SHOK\\Desktop\\Rarka\\GB\\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\\GBCsharpBasics\\hwL2(upd)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

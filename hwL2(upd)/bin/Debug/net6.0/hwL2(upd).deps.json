@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "HW (L2)/1.0.0": {
+      "hwL2(upd)/1.0.0": {
         "runtime": {
-          "HW (L2).dll": {}
+          "hwL2(upd).dll": {}
         }
       }
     }
   },
   "libraries": {
-    "HW (L2)/1.0.0": {
+    "hwL2(upd)/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
