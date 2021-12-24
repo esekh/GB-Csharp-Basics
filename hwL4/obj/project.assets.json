@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SHOK\\Desktop\\Rarka\\GB\\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\\GBCsharpBasics\\hwL3\\Task2A\\Task2A.csproj",
-      "projectName": "Task2A",
-      "projectPath": "C:\\Users\\SHOK\\Desktop\\Rarka\\GB\\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\\GBCsharpBasics\\hwL3\\Task2A\\Task2A.csproj",
+      "projectUniqueName": "C:\\Users\\SHOK\\Desktop\\Rarka\\GB\\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\\GBCsharpBasics\\hwL4\\hwL4.csproj",
+      "projectName": "hwL4",
+      "projectPath": "C:\\Users\\SHOK\\Desktop\\Rarka\\GB\\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\\GBCsharpBasics\\hwL4\\hwL4.csproj",
       "packagesPath": "C:\\Users\\SHOK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SHOK\\Desktop\\Rarka\\GB\\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\\GBCsharpBasics\\hwL3\\Task2A\\obj\\",
+      "outputPath": "C:\\Users\\SHOK\\Desktop\\Rarka\\GB\\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\\GBCsharpBasics\\hwL4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

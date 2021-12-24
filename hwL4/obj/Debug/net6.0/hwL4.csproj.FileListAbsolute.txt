@@ -1,0 +1,15 @@
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL4\bin\Debug\net6.0\hwL4.exe
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL4\bin\Debug\net6.0\hwL4.deps.json
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL4\bin\Debug\net6.0\hwL4.runtimeconfig.json
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL4\bin\Debug\net6.0\hwL4.dll
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL4\bin\Debug\net6.0\ref\hwL4.dll
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL4\bin\Debug\net6.0\hwL4.pdb
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL4\obj\Debug\net6.0\hwL4.csproj.AssemblyReference.cache
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL4\obj\Debug\net6.0\hwL4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL4\obj\Debug\net6.0\hwL4.AssemblyInfoInputs.cache
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL4\obj\Debug\net6.0\hwL4.AssemblyInfo.cs
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL4\obj\Debug\net6.0\hwL4.csproj.CoreCompileInputs.cache
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL4\obj\Debug\net6.0\hwL4.dll
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL4\obj\Debug\net6.0\ref\hwL4.dll
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL4\obj\Debug\net6.0\hwL4.pdb
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL4\obj\Debug\net6.0\hwL4.genruntimeconfig.cache

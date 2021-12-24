@@ -13,3 +13,18 @@ C:\Users\SHOK\Downloads\GB. Csharp Basics\HW (L3)\Task2A\obj\Debug\net6.0\Task2A
 C:\Users\SHOK\Downloads\GB. Csharp Basics\HW (L3)\Task2A\obj\Debug\net6.0\ref\Task2A.dll
 C:\Users\SHOK\Downloads\GB. Csharp Basics\HW (L3)\Task2A\obj\Debug\net6.0\Task2A.pdb
 C:\Users\SHOK\Downloads\GB. Csharp Basics\HW (L3)\Task2A\obj\Debug\net6.0\Task2A.genruntimeconfig.cache
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL3\Task2A\bin\Debug\net6.0\Task2A.exe
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL3\Task2A\bin\Debug\net6.0\Task2A.deps.json
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL3\Task2A\bin\Debug\net6.0\Task2A.runtimeconfig.json
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL3\Task2A\bin\Debug\net6.0\Task2A.dll
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL3\Task2A\bin\Debug\net6.0\ref\Task2A.dll
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL3\Task2A\bin\Debug\net6.0\Task2A.pdb
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL3\Task2A\obj\Debug\net6.0\Task2A.csproj.AssemblyReference.cache
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL3\Task2A\obj\Debug\net6.0\Task2A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL3\Task2A\obj\Debug\net6.0\Task2A.AssemblyInfoInputs.cache
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL3\Task2A\obj\Debug\net6.0\Task2A.AssemblyInfo.cs
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL3\Task2A\obj\Debug\net6.0\Task2A.csproj.CoreCompileInputs.cache
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL3\Task2A\obj\Debug\net6.0\Task2A.dll
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL3\Task2A\obj\Debug\net6.0\ref\Task2A.dll
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL3\Task2A\obj\Debug\net6.0\Task2A.pdb
+C:\Users\SHOK\Desktop\Rarka\GB\ВЕБИНАРНОЕ ЗАНЯТИЕ. C#\GBCsharpBasics\hwL3\Task2A\obj\Debug\net6.0\Task2A.genruntimeconfig.cache
